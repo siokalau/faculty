@@ -1,0 +1,11 @@
+module conditie( input [1:0] x, output reg [1:0] y ) ;
+always@(*) begin // *- codul se va executa oricand apare vreo modificare
+if( x==2) begin
+y=3;
+end
+else
+if( x==3) begin
+y=2;
+end
+end
+endmodule
