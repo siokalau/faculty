@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main(void)
+{
+int n, v[10], i;
+printf("Dati numarul de elemente: ");
+scanf("%d", &n);
+//Citirea elementelor vectorului
+for (i = 0; i < n; i++)
+{
+printf("v[%d]=", i);
+scanf("%d", &v[i]);
+}
+//Afisarea elementelor vectorului
+for (i = 0; i < n; i++)
+printf("\nv[%d]=%d", i, v[i]);
+return 0;
+}
