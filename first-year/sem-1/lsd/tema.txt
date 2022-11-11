@@ -1,0 +1,13 @@
+Demonstrare Condiționată
+De obicei vrem să demonstrăm lucruri precum: dacă
+A, B și C sunt adevărate atunci D e adevărat
+“D e consecință a lui A, B și C”
+sau “Din premisele A, B și C putem concluziona D” sau A ∧ B ∧ C ! D
+O demonstrare condiționată dintr-un set de premise este o secvență finită de
+wff-uri, fiecare wff fiind:
+a.o axiomă sau
+b.o premisă sau
+c.inferată din wff-uri anterioare prin reguli de inferență
+Regula Demonstrării Condiționate (CP)
+Vrem o demonstrație pentru A1 ∧ A2 ∧ ... ∧ An ! B. Construim o demonstrație
+pentru B utilizând ca premise A1, ... , An
