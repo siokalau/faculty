@@ -1,0 +1,11 @@
+O funct¸ie f : A ⊂ R
+p → R 
+q, p, q ∈ N, p, q ≥ 1, este continu˘a ˆın x0 ∈ A,
+dac˘a pentru orice vecin˘atate U ∈ Vf(x0) (o vecin˘atate a lui f (x0)) exist˘a o vecin˘atate
+V ∈ Vx0
+(o vecin˘atate a lui x0) astfel ˆıncat pentru orice x ∈ V ∩ A avem f (x) ∈ U. O
+funct¸ie care nu este continu˘a se nume¸ste discontinu˘a.
+Continuitatea poate fi studiat˘a ˆın orice punct x0 ∈ A nu doar ˆın punctele de acumulare x0 ∈ A0
+. Totu¸si, ˆın general, doar punctele x0 ∈ A ∩ A0
+sunt puncte de interes
+pentru continuitate.
